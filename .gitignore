@@ -1,0 +1,13 @@
+# Ignorar carpetas de caché y temporales
+Antigravity/
+Libreoffice/
+pulse/
+google-chrome/
+discord/
+Slack/
+Microsoft/
+# Ignorar bases de datos de HyprPanel si no las querés sincronizar
+hyprpanel/cache/
+# Ignorar sockets y archivos de sesión
+*.log
+*.tmp
