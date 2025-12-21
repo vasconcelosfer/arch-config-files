@@ -1,0 +1,33 @@
+window {
+    background-color: #1e1e2e; /* Fondo oscuro (tipo Catppuccin) */
+    border: 2px solid #89b4fa; /* Borde azul */
+    border-radius: 12px;
+}
+
+label {
+    color: #cdd6f4;
+    font-size: 14px;
+    margin: 10px;
+}
+
+entry {
+    background-color: #313244;
+    color: #cdd6f4;
+    border-radius: 6px;
+    padding: 8px;
+    margin: 10px;
+    border: 1px solid #45475a;
+}
+
+button {
+    background-color: #89b4fa;
+    color: #1e1e2e;
+    border-radius: 6px;
+    padding: 6px 12px;
+    margin: 10px;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #b4befe;
+}
