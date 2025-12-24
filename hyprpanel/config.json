@@ -45,5 +45,57 @@
   "theme.matugen_settings.scheme_type": "tonal-spot",
   "theme.matugen_settings.variation": "standard_1",
   "menus.dashboard.shortcuts.left.shortcut4.command": "hyprlauncher",
-  "menus.clock.weather.key": "315368a2e48a4dc7af035909252112"
+  "menus.clock.weather.key": "315368a2e48a4dc7af035909252112",
+  "bar.layouts": {
+    "0": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "network",
+        "bluetooth",
+        "battery",
+        "systray",
+        "clock",
+        "notifications"
+      ]
+    },
+    "1": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "clock",
+        "notifications"
+      ]
+    },
+    "2": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "clock",
+        "notifications"
+      ]
+    }
+  },
+  "menus.dashboard.powermenu.sleep": "systemctl suspend-then-hibernate"
 }
